@@ -1,0 +1,6 @@
+* [Awesome github repo](https://github.com/jtoy/awesome-tensorflow)
+  * [gitrepo TF examples](https://github.com/aymericdamien/TensorFlow-Examples)
+  * [TF published paper notes](https://github.com/samjabrahams/tensorflow-white-paper-notes)
+* [Kadenze course repo "Creative Applications of Deep Learning w/ Tensorflow" ](https://github.com/pkmital/CADL)
+* [Google/Udacity Deep learning course](https://www.udacity.com/course/deep-learning--ud730)
+* [TF book](http://www.jorditorres.org/first-contact-with-tensorflow/)
