@@ -4,3 +4,5 @@
 * [Kadenze course repo "Creative Applications of Deep Learning w/ Tensorflow" ](https://github.com/pkmital/CADL)
 * [Google/Udacity Deep learning course](https://www.udacity.com/course/deep-learning--ud730)
 * [TF book](http://www.jorditorres.org/first-contact-with-tensorflow/)
+* [Intro to ML with TF](https://youtu.be/vQtxTZ9OA2M)
+* [Intro to TF by cs224D](https://www.youtube.com/watch?v=l6K-MFgIEjc)
